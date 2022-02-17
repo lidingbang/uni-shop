@@ -44,7 +44,7 @@
   "compileType": "miniprogram",
   "libVersion": "2.22.0",
   "appid": "wxcef9a55185b48811",
-  "projectname": "uni-shop-2",
+  "projectname": "uni-shop",
   "debugOptions": {
     "hidedInDevtools": []
   },
